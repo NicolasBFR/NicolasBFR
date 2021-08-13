@@ -1,3 +1,4 @@
+🇫🇷
 # My languages
 - Python
 - C
